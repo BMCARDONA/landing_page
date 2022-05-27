@@ -1,0 +1,18 @@
+
+/* Make the outline of the website have no margin. This makes the color look much cleaner. */
+body {
+  margin: 0;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: grey;
+  align-items: center;
+  padding: 10px;
+}
+
+.header-logo {
+  font-weight: bold;
+  font-size: 20px;
+}
