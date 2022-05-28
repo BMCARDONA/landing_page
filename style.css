@@ -170,7 +170,7 @@ a {
 .section-5 {
   font-size: 45px;
   text-align: center;
-  background-color: rgb(69, 220, 69);
+  background-color: rgb(185, 84, 229);
   color: black;
   padding: 25px;
 }
@@ -189,6 +189,7 @@ a {
 .footer p {
   padding: 10px;
   margin: 0;
+  color: grey;
 }
 
 
