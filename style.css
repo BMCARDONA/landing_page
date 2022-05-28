@@ -93,7 +93,7 @@ a {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: rgb(255, 32, 32);
+  background-color: rgb(190, 38, 38);
 }
 
 .more-images {
@@ -148,7 +148,7 @@ a {
   display: flex;
   flex-direction: column;
   text-align: center;
-  background-color: rgb(25, 25, 25);
+  background-color: rgb(101, 32, 129);
   color: rgb(209, 209, 209);
   padding: 50px 300px;
 }
@@ -170,7 +170,7 @@ a {
 .section-5 {
   font-size: 45px;
   text-align: center;
-  background-color: rgb(185, 84, 229);
+  background-color: rgb(28, 101, 30);
   color: black;
   padding: 25px;
 }
